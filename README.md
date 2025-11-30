@@ -169,4 +169,3 @@ If you need help setting up Tailwind locally, adding `.env.example`, or improvin
 
 ---
 
-✨ *Happy coding!* 🚀
