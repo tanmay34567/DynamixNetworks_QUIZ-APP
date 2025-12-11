@@ -1,4 +1,4 @@
-# Dynamix Quiz App
+# Quiz App
 
 A small **React + Vite + TypeScript** quiz application created for an assessment task. The app provides a clean quiz flow: **Start → Loading → Quiz → Results**, and uses a local question bank defined in `services/questions.ts`.
 
